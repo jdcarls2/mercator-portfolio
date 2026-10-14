@@ -1,0 +1,40 @@
+---
+title: "About"
+toc: false
+about:
+  template: trestles
+  image: mercator.jpg
+  links:
+    - icon: wikipedia
+      text: Wikipedia
+      href: https://en.wikipedia.org/wiki/Gerardus_Mercator
+    - icon: image
+      text: Wikimedia Commons
+      href: https://commons.wikimedia.org/wiki/Category:Maps_by_Gerardus_Mercator
+---
+
+My name is Gerardus Mercator. You may know me for my widely (and unjustly!) hated map projection, but I did a lot more than exaggerate the poles!
+
+# Education
+
+## 's-Hertogenbosch: *1526—1530*
+
+Studied Bible, Latin, logic, rhetoric.
+
+## University of Leuven: *1530—1532*
+
+Graduated Magister in 1532
+
+# Experience
+
+- Apprenticed to Gaspar van der Heyden
+- Engraved terrestrial globe of Gemma and Gaspar Van der Heyden (1536)
+- Produced many award-winning globes and maps
+- Developed theory of magnetism
+- Coined the term "atlas"
+
+# Fun Facts
+
+I really did wear that funny hat! It was quite the fashion at the time.
+
+I coined the term "atlas"! You're welcome!

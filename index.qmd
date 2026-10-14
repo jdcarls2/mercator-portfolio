@@ -1,0 +1,16 @@
+---
+title: "My Portfolio"
+listing:
+  contents: portfolio
+  type: default
+  sort: "date"
+  fields: 
+    - title
+    - date
+    - description
+    - image
+  field-display-names:
+    date: "Year"
+  date-format: "YYYY"
+  filter-ui: true
+---
