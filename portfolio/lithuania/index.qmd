@@ -2,6 +2,10 @@
 title: "Vialikaje Kniastva Litoŭskaje"
 date: "1607"
 date-format: "YYYY"
+categories:
+  - europe
+  - lithuania
+sidebar: main
 ---
 
 ![](./lithuania.jpg)
@@ -9,3 +13,5 @@ date-format: "YYYY"
 # Additional Details
 
 Part of the Atlas Minor
+
+Really proud of the italic script in this one.

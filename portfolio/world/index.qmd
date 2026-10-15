@@ -4,11 +4,14 @@ subtitle: New and more complete representation of the terrestrial globe properly
 date: "1569"
 date-format: "YYYY"
 description: Originally printed across 18 sheets, presented here as a single composite image.
+sidebar: main
+categories:
+  - world
 ---
 
 # The Map
 
-:::{.column-page}
+:::{.column-page-right}
 ![](world.jpg)
 :::
 

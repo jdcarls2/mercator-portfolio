@@ -13,4 +13,5 @@ listing:
     date: "Year"
   date-format: "YYYY"
   filter-ui: true
+  categories: true
 ---

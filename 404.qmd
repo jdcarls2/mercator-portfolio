@@ -1,0 +1,12 @@
+---
+title: Lost?
+toc: false
+---
+
+# Are you lost?
+
+![](/mercator-glare.jpg)
+
+Maybe you need a map projection that was *designed as a navigation aid…*
+
+[Go back from whence you came.](/)

@@ -1,0 +1,12 @@
+---
+title: Corsica, Sardinia
+date: "1589"
+date-format: YYYY
+sidebar: main
+categories:
+  - italy
+---
+
+# The Map
+
+![](./corsica.jpg)

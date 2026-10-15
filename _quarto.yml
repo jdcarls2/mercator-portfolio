@@ -3,17 +3,33 @@ project:
 
 website:
   title: "My Portfolio"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+  favicon: /logo.jpg
+  sidebar:
+    id: main
+    title: "The Portfolio of Gerardus Mercator"
+    style: docked
+    search: true
+    logo: logo.jpg
+    background: secondary
+    tools:
+      - icon: bluesky
+        href: https://bsky.app
+      - icon: github
+        href: https://github.com
+      - icon: envelope
+        href: https://gmail.com
+    contents:
+      - text: "Portfolio"
+        href: index.qmd
+      - text: "About"
+        href: about.qmd
+      
 
 format:
   html:
     theme:
-      - cosmo
-      - brand
+      light: litera
+      dark: vapor
     css: styles.css
     toc: true
 
