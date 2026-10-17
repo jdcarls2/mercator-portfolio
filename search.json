@@ -1,5 +1,29 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "My Portfolio",
+    "section": "",
+    "text": "Nova et Aucta Orbis Terrae Descriptio ad Usum Navigantium Emendate Accommodata\n\n\nOriginally printed across 18 sheets, presented here as a single composite image.\n\n\n\n\n\n1568\n\n\n\n\n\n\n\n\n\n\n\n\nCorsica, Sardinia\n\n\n\n\n\n\n\n\n1588\n\n\n\n\n\n\n\n\n\n\n\n\nVialikaje Kniastva Litoŭskaje\n\n\n\n\n\n\n\n\n1606\n\n\n\n\n\n\n\n\n\n\n\n\nCornubia, Devonia, Somersetus, Dorcestria, Wiltonia, Glocestria, Monumetha, Glamorgan, Caermarden, Penbrok, Cardigan, Radnor, Breknoke, Herefordia & Wigornia\n\n\n\n\n\n\n\n\n1606\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Portfolio"
+    ]
+  },
+  {
+    "objectID": "portfolio/corsica/corsica.html",
+    "href": "portfolio/corsica/corsica.html",
+    "title": "Corsica, Sardinia",
+    "section": "",
+    "text": "The Map"
+  },
+  {
+    "objectID": "portfolio/lithuania/index.html",
+    "href": "portfolio/lithuania/index.html",
+    "title": "Vialikaje Kniastva Litoŭskaje",
+    "section": "",
+    "text": "Additional Details\nPart of the Atlas Minor\nReally proud of the italic script in this one."
+  },
+  {
     "objectID": "portfolio/world/index.html#to-the-most-illustrious-and-clement-prince",
     "href": "portfolio/world/index.html#to-the-most-illustrious-and-clement-prince",
     "title": "Nova et Aucta Orbis Terrae Descriptio ad Usum Navigantium Emendate Accommodata",
@@ -105,21 +129,11 @@
     "text": "Copyright\nBy prerogative of His Imperial Majesty all whomsoever in the Empire or in His hereditary Kingdoms and provinces, are restrained for a period of 14 years from reproducing this work in any manner whatsoever or to introduce it therein should it have been reproduced elsewhere. The same restraint has been promulgated by an edict of His Royal Majesty for a period of 10 years in Belgium.\nThis work was published at Duisburg in the year of Grace 1569 in the month of August."
   },
   {
-    "objectID": "portfolio/corsica/corsica.html",
-    "href": "portfolio/corsica/corsica.html",
-    "title": "Corsica, Sardinia",
+    "objectID": "portfolio/cornubia/cornubia.html",
+    "href": "portfolio/cornubia/cornubia.html",
+    "title": "Cornubia, Devonia, Somersetus, Dorcestria, Wiltonia, Glocestria, Monumetha, Glamorgan, Caermarden, Penbrok, Cardigan, Radnor, Breknoke, Herefordia & Wigornia",
     "section": "",
     "text": "The Map"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "My Portfolio",
-    "section": "",
-    "text": "Nova et Aucta Orbis Terrae Descriptio ad Usum Navigantium Emendate Accommodata\n\n\nOriginally printed across 18 sheets, presented here as a single composite image.\n\n\n\n\n\n1568\n\n\n\n\n\n\n\n\n\n\n\n\nCorsica, Sardinia\n\n\n\n\n\n\n\n\n1588\n\n\n\n\n\n\n\n\n\n\n\n\nCornubia, Devonia, Somersetus, Dorcestria, Wiltonia, Glocestria, Monumetha, Glamorgan, Caermarden, Penbrok, Cardigan, Radnor, Breknoke, Herefordia & Wigornia\n\n\n\n\n\n\n\n\n1606\n\n\n\n\n\n\n\n\n\n\n\n\nVialikaje Kniastva Litoŭskaje\n\n\n\n\n\n\n\n\n1606\n\n\n\n\n\nNo matching items",
-    "crumbs": [
-      "Portfolio"
-    ]
   },
   {
     "objectID": "about.html",
@@ -150,19 +164,5 @@
     "crumbs": [
       "About"
     ]
-  },
-  {
-    "objectID": "portfolio/cornubia/cornubia.html",
-    "href": "portfolio/cornubia/cornubia.html",
-    "title": "Cornubia, Devonia, Somersetus, Dorcestria, Wiltonia, Glocestria, Monumetha, Glamorgan, Caermarden, Penbrok, Cardigan, Radnor, Breknoke, Herefordia & Wigornia",
-    "section": "",
-    "text": "The Map"
-  },
-  {
-    "objectID": "portfolio/lithuania/index.html",
-    "href": "portfolio/lithuania/index.html",
-    "title": "Vialikaje Kniastva Litoŭskaje",
-    "section": "",
-    "text": "Additional Details\nPart of the Atlas Minor\nReally proud of the italic script in this one."
   }
 ]
